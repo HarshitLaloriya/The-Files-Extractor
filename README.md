@@ -28,4 +28,6 @@ This GUI application is so easy to operate and interactive and i also pinned a v
 https://drive.google.com/file/d/1wEZ466qEPskkzZ9lxP7qbn-1P0cbdiw4/view?usp=sharing
 
 
-https://user-images.githubusercontent.com/131453401/233767221-b7f8a47c-9f09-47ca-a15b-265b1596fbf1.mp4
+https://github.com/HarshitLaloriya/The-Files-Extractor/assets/153602422/6a070d0b-9591-43a5-ab1a-4265e351e6d3
+
+
