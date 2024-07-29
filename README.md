@@ -31,3 +31,6 @@ https://drive.google.com/file/d/1wEZ466qEPskkzZ9lxP7qbn-1P0cbdiw4/view?usp=shari
 https://github.com/HarshitLaloriya/The-Files-Extractor/assets/153602422/6a070d0b-9591-43a5-ab1a-4265e351e6d3
 
 
+<p align="center">
+  <img width="268" alt="symbol" src="https://github.com/HarshitLaloriya/SMS-Classification-Model/assets/153602422/aac7df32-7c7a-46ee-9fcf-84767bc0d029">
+</p>
